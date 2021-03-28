@@ -31,6 +31,7 @@ nav:
     - 'CVMFS': 'midscale-engagements/xenon/cvmfs.md'
 - Documentation:
   - 'Freshdesk': 'documentation/freshdesk.md'
+  - 'Support Tickets': 'documentation/support-tickets.md'
 
 markdown_extensions:
   - admonition
